@@ -1,0 +1,16 @@
+{
+  "name": "03-proyecto-json-server",
+  "version": "0.0.1",
+  "description": "Pequeño servidor con información de cursos",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Joseph Code",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.2"
+  }
+}
+
+
